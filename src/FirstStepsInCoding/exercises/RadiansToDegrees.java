@@ -1,4 +1,4 @@
-package FirstStepsInCoding.Exercises;
+package FirstStepsInCoding.exercises;
 
 import java.util.Scanner;
 
